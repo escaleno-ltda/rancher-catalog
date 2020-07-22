@@ -1,0 +1,7 @@
+name: Let's Encrypt
+description: Trusted SSL certificates at zero cost
+version: 1.0.0
+category: Security
+maintainer: VXControl
+license: Apache License 2.0
+projectURL: https://github.com/vxcontrol/rancher-letsencrypt
